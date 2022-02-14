@@ -3,10 +3,20 @@
 
 ## Luis Paulo Santos - Development
 
+## Requirements
+
+* [Docker Engine](https://docs.docker.com/installation/)
+* [Docker Compose](https://docs.docker.com/compose/)
+* [Docker Machine](https://docs.docker.com/machine/) (Mac and Windows only)
+
 ## How to start the project
 - Clone the project on github
 https://github.com/luispaulo/microservice_crawler_phpunit.git
 
+## Load the container
+```
+    docker-compose up --build
+```
 
 ## Load the container
 ```
