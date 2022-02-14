@@ -21,7 +21,7 @@ class CrawlerController extends Controller
 
     public function listProduts()
     {
-        $url = 'https://mg.olx.com.br/belo-horizonte-e-regiao/computadores-e-acessorios/notebook-e-netbook';
+        $url = 'https://df.olx.com.br/distrito-federal-e-regiao/brasilia/computadores-e-acessorios/notebook-e-netbook';
 
         $client = new Goutte(HttpClient::create(['timeout' => 60]));
 
