@@ -3,6 +3,8 @@
 
 ## Luis Paulo Santos - Development
 
+Api developed to return a list of products from the OLX site, it returns all products by list, through a crawler,
+used unit test, PhpUnit to validate the expected result of the crawler.
 ## Requirements
 
 * [Docker Engine](https://docs.docker.com/installation/)
