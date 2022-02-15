@@ -1,9 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.eureciclo.com.br/img/selo-horizontal.ea6b8657.png" width="400"></a></p>
 </p>
 
-## Luis Paulo Santos - Development
+## Luis Paulo Santos - Microservice lumen Crawler
 
-Api developed to return a list of products from the OLX site, it returns all products by list, through a crawler,
+Api developed in Lumen to return a list of products from the OLX site, it returns all products by list, through a crawler,
 used unit test, PhpUnit to validate the expected result of the crawler.
 ## Requirements
 
