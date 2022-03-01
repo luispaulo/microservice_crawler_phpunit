@@ -14,8 +14,6 @@ class ControllerTest extends TestCase
     public function testController()
     {
         $response = $this->call('GET', '/api/list/');
-
         $this->assertEquals(200, $response->status());
-
     }
 }
